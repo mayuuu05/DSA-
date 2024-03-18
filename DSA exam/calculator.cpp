@@ -1,6 +1,5 @@
 //Write a Program to create a menu-driven program for create a Calculator's functionality.
 //For example,
-//
 //Enter first number: 5
 //Enter second number: 3
 //
